@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
 
 
-#!pip3 install fake_useragent
+
 
 !pip3 install pandas==1.1.2
 
