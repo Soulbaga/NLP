@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
 
 
-!pip3 install pandas==1.1.2
+
 
 import os
 from google.cloud import language_v1
