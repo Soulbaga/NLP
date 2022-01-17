@@ -1,4 +1,4 @@
-import fake_useragent
+#import fake_useragent
 
 import pandas
 
