@@ -1,6 +1,6 @@
 import fake_useragent
 
-import pandas==1.1.2
+import pandas
 
 import os
 from google.cloud import language_v1
