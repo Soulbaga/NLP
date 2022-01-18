@@ -1,5 +1,5 @@
-run from google.colab import files
+run "from google.colab import files
 uploaded = files.upload()
 for fn in uploaded.keys():
   print('User uploaded file "{name}" with length {length} bytes'.format(
-      name=fn, length=len(uploaded[fn])))
+      name=fn, length=len(uploaded[fn])))"
