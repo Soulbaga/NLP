@@ -1,4 +1,6 @@
-#import fake_useragent
+import streamlit as st
+
+import fake_useragent
 
 import pandas
 
