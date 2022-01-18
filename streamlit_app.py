@@ -1,8 +1,8 @@
 import streamlit as st
 
-import fake_useragent
+install fake_useragent
 
-import pandas
+install pandas
 
 import os
 from google.cloud import language_v1
