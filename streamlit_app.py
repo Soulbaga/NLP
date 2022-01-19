@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import fake_useragent
+#import fake_useragent
 import os
 #from google.cloud import language_v1
 #from google.cloud.language_v1 import enums
