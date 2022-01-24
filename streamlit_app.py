@@ -1,6 +1,11 @@
 # Create a webapp with Streamlit to detect top entities in a uploaded TXT file
 # Use the google.cloud language_v1 API
 
+ import os
+    import io
+    import json
+    import urllib.request
+    import gcloud
 from google.cloud import language_v1
 
 
