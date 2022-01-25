@@ -1,1 +1,1 @@
-install Python Library
+sudo pip install requests
