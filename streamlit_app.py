@@ -1,1 +1,1 @@
-install Phython Library
+install Python Library
